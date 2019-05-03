@@ -22,6 +22,7 @@
             name="ngsi_server"
             type="text"
             label="NGSI server URL"
+            required="true"
             description="URL of the Orion Context Broker to use for retrieving entity information"
             default="http://orion.lab.fiware.org:1026/" />
         <preference
