@@ -1,3 +1,10 @@
+## v4.1.0 (2019-05-XX)
+
+- Use standard `Authorization` header instead of the non standarized
+  `X-Auth-Token` header. This changes requires WireCloud 1.3.
+- Provide a new `ngsimetadata` output endpoint.
+
+
 ## v4.0.0 (2017-12-07)
 
 - Updated to use NGSIv2 (NGSIv1 support dropped)
